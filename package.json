@@ -1,0 +1,7 @@
+{
+    "name": "my-first-node-game",
+    "version": "1.0.0",
+    "dependencies": {
+        "socket.io": "^2.3.0"
+    }
+}
